@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">MyCountry</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="Dhaka">ঢাকা</string>
+    <string name="Chittagong">চট্টগ্রাম</string>
+    <string name="Barisal">বরিশাল</string>
+    <string name="Khulna">খুলনা</string>
+    <string name="Mymensingh">ময়মনসিংহ</string>
+    <string name="Rajshahi">রাজশাহী</string>
+    <string name="Sylhet">সিলেট</string>
+    <string name="Rangpur">রংপুর</string>
+
+    //details
+    <string-array name="DistrictOption">
+        <item>ইতিহাস</item>
+        <item>বিশ্ববিদ্যালয়</item>
+        <item>জাতীয় বিশ্ববিদ্যালয়</item>
+        <item>স্কুল</item>
+        <item>দর্শনীয় স্থান</item>
+        <item>জেলা</item>
+        <item>সিটি কর্পোরেশন</item>
+        <item>পুলিস ষ্টেশন</item>
+    </string-array>
+</resources>
